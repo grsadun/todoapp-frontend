@@ -17,6 +17,7 @@ const Page = () => {
       }
     };
 
+    console.log("hello");
     fetchData();
   }, []);
 
